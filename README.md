@@ -175,11 +175,6 @@ List the ready features here:
 
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=tsNswx0nRKM&t=9099s&ab_channel=LamaDev).
 ### Future Features
-- Creating features My List
-- Improving search movies and developing search list 
-- Building quickly change user
-- Implement a recommendation system
-- Implement "last watched" and "continue watching" feature
 
 ### What We Learnt
 - Implementation of MERN stack technology
