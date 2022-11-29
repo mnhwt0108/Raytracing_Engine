@@ -1,4 +1,4 @@
-# Raytracing_Engine ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+<!-- # Raytracing_Engine ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 > The project for Computer Graphics course.
 You are the  ![](https://visitor-badge.glitch.me/badge?page_id=Nguyenle23.netflix-mern)!
 
@@ -96,7 +96,7 @@ List the ready features here:
 | react-router-dom | [plugins/react-router/README.md](https://github.com/ReactTraining/react-router/blob/master/README.md) |
 | sass | [plugins/sass/README.md](https://github.com/sass/sass/blob/main/README.md) |
 
-<!-- FOLDER STRUCTURE -->
+<!-- FOLDER STRUCTURE 
 <h2 id="folder-structure"> 🗺️ Folder Structure</h2>
    
     ├── APIs
@@ -182,4 +182,4 @@ List the ready features here:
 - Usage of Git, pull, merge and commit
 - Organize files to better manage development
 - Communication between Frontend and Backend developers
-- Importance of README.md
+- Importance of README.md -->
