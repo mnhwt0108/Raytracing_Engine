@@ -1,25 +1,25 @@
-<!-- # Raytracing_Engine ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+# Raytracing_Engine 
 > The project for Computer Graphics course.
-You are the  ![](https://visitor-badge.glitch.me/badge?page_id=Nguyenle23.netflix-mern)!
+You are the  ![](https://visitor-badge.glitch.me/badge?page_id=mnhwt0108.Raytracing_Engine)!
 
 # Introduction
-<h3> Nhut: geo, ray, util - Sy: GUI, acc, demo - Phuc: Object, sce, parser </h3>
+A renderer engine using ray-tracing technique from scratch in Java
 
 <h4>Member</h4>
 
 | Number | ID | Name | Task allocation | 
 | ----- | ----- | --------- | --------- | 
-| 1  | ITITIU19169 | [Lê Nguyễn Bình Nguyên](https://github.com/Nguyenle23) | API + Database | 
-| 2 | ITITWE19024 | [Dương Minh Nhựt](https://github.com/mnhwt0108) | React User Interface |
-| 3  |  ITITIU19067 | [Lê Hữu Sỹ](https://github.com/Ted1804) | React Dashboard Interface |
+| 1  | ITITWE19024 | [Dương Minh Nhựt](https://github.com/mnhwt0108) | Optimization, Secondary rays |
+| 2 | ITITIU19182 | [Phạm Trần Anh Phúc](https://github.com/phucide) | Lights, Render |
+| 3  |  ITITIU19067 | [Lê Hữu Sỹ](https://github.com/Ted1804) | User Interface, Render |
 
 <h4>Motivation</h4> 
-<p>Our team originally planned to implement an issues tracker project to create a website to track the progress of a job or a project. However, the project was put on a hold since we did not found it captivating and that we wanted a more practical web application.
-In the end, we decied on our common interest, a very popular movie site: Netflix. Not only that it gave us inspiration when implementing since the whole team has the same hobby of watching movies. And at the same time, the project has more opportunities for each member to develop programming skills to guide the career path as well as its practical usage.</p>
-<p>Thanks to the analysis of Netflix's website, every member on the team can recognize and understand its operation and implement it with small inputs, or make up the basic website under other frameworks and libraries together.</p>
+<p>Our team all had an interest in computer graphics in general and wanted to use this oppoturnity to implement a project that we all like, that being the process of rendering, specificly the ray-tracing rendering process.</p>
+<p>Thanks to the analysis with much studies through documents and a whole lot of physics, every member on the team can recognize and understand its core problems, solutions, methodologies and implemented it with small inputs and libraries together.</p>
 
-<h4>Present slides: <a href=https://www.canva.com/design/DAFCz8WDbMk/view> here </a> </h4>
+<h4>Present slides: <a href=https://docs.google.com/presentation/d/1UW2u11niXyFSKFKa2w1EqSfpAUKzaF40SPl-FSYIqd0/edit?usp=sharing> here </a> </h4>
 
+<!--
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 <details open="open">
   <summary>Table of Contents</summary>
@@ -96,7 +96,6 @@ List the ready features here:
 | react-router-dom | [plugins/react-router/README.md](https://github.com/ReactTraining/react-router/blob/master/README.md) |
 | sass | [plugins/sass/README.md](https://github.com/sass/sass/blob/main/README.md) |
 
-<!-- FOLDER STRUCTURE 
 <h2 id="folder-structure"> 🗺️ Folder Structure</h2>
    
     ├── APIs
